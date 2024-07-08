@@ -2,6 +2,7 @@ Concepts this code fulfill according to Corresponding tech stack is used:
 
 
 *HTML-->
+
      1.Semantic tags-->footer,header,...
      
      2.Img tags
@@ -14,6 +15,7 @@ Concepts this code fulfill according to Corresponding tech stack is used:
 
 
 *CSS-->
+
      1.CSS selectors-->class(.),id(#),element selector(div,p,footer...)
      
      2.Box model-->padding,margin...
