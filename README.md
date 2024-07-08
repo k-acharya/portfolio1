@@ -11,7 +11,9 @@ Concepts this code fulfill according to Corresponding tech stack is used:
      
      4.Form tag
      
-     5.Anchor tags(but not using JS here ONLY CSS & HTML).    
+     5.Anchor tags(but not using JS here ONLY CSS & HTML)
+
+     6.Bookmarks.
 
 
 *CSS-->
